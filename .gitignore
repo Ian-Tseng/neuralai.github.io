@@ -1,0 +1,9 @@
+.DS_Store
+.gstack/
+_inconsistent_archive/
+
+# Local/private drafts that are not part of the static website.
+*.docx
+*.pdf
+*.pptx
+*.tiff
