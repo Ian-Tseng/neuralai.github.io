@@ -7,3 +7,10 @@ _inconsistent_archive/
 *.pdf
 *.pptx
 *.tiff
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
